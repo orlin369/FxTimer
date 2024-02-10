@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For FxTimer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+FxTimer	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+update	KEYWORD2
+updateLastTime	KEYWORD2
+clear	KEYWORD2
+setExpirationCb	KEYWORD2
+setExpirationTime	KEYWORD2
+getExpirationTime	KEYWORD2
+expired	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PIN_LED	LITERAL1
+

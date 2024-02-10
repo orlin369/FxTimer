@@ -1,0 +1,22 @@
+{
+  "name": "FxTimer Library",
+  "description": "Arduino library for software defined timer.",
+  "keywords": "FxTimer, Timer, SoftwareTimer",
+  "authors": [
+    {
+      "name": "Orlin Dimitrov",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orlin369/FxTimer.git"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelmegaavr", "avr", "esp32", "esp8266"],
+  "dependencies": [
+  ],
+  "headers": "FxTimer.h"
+}
